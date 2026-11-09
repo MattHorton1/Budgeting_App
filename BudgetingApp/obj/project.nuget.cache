@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GmNotDitdrw=",
+  "success": true,
+  "projectFilePath": "C:\\Code\\repos\\Budgeting_App\\BudgetingApp\\BudgetingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matthew Horton\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.14\\microsoft.aspnetcore.app.internal.assets.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
