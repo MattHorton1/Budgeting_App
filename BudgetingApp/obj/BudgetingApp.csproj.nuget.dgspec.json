@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\repos\\Budgeting_App\\BudgetingApp\\BudgetingApp.csproj": {}
+    "c:\\Code\\repos\\Budgeting_App\\BudgetingApp\\BudgetingApp.csproj": {}
   },
   "projects": {
-    "C:\\Code\\repos\\Budgeting_App\\BudgetingApp\\BudgetingApp.csproj": {
+    "c:\\Code\\repos\\Budgeting_App\\BudgetingApp\\BudgetingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\repos\\Budgeting_App\\BudgetingApp\\BudgetingApp.csproj",
+        "projectUniqueName": "c:\\Code\\repos\\Budgeting_App\\BudgetingApp\\BudgetingApp.csproj",
         "projectName": "BudgetingApp",
-        "projectPath": "C:\\Code\\repos\\Budgeting_App\\BudgetingApp\\BudgetingApp.csproj",
+        "projectPath": "c:\\Code\\repos\\Budgeting_App\\BudgetingApp\\BudgetingApp.csproj",
         "packagesPath": "C:\\Users\\Matthew Horton\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\repos\\Budgeting_App\\BudgetingApp\\obj\\",
+        "outputPath": "c:\\Code\\repos\\Budgeting_App\\BudgetingApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -12,57 +12,73 @@ build_property.EntryPointFilePath =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BudgetingApp
 build_property.RootNamespace = BudgetingApp
-build_property.ProjectDir = C:\Code\repos\Budgeting_App\BudgetingApp\
+build_property.ProjectDir = c:\Code\repos\Budgeting_App\BudgetingApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 10.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Code\repos\Budgeting_App\BudgetingApp
+build_property.MSBuildProjectDirectory = c:\Code\repos\Budgeting_App\BudgetingApp
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Code/repos/Budgeting_App/BudgetingApp/Components/App.razor]
+[c:/Code/repos/Budgeting_App/BudgetingApp/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/repos/Budgeting_App/BudgetingApp/Components/Pages/Counter.razor]
+[c:/Code/repos/Budgeting_App/BudgetingApp/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/repos/Budgeting_App/BudgetingApp/Components/Pages/Error.razor]
+[c:/Code/repos/Budgeting_App/BudgetingApp/Components/Pages/Earnings.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFYXJuaW5ncy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Code/repos/Budgeting_App/BudgetingApp/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/repos/Budgeting_App/BudgetingApp/Components/Pages/Home.razor]
+[c:/Code/repos/Budgeting_App/BudgetingApp/Components/Pages/Goals.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xHb2Fscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Code/repos/Budgeting_App/BudgetingApp/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/repos/Budgeting_App/BudgetingApp/Components/Pages/NotFound.razor]
+[c:/Code/repos/Budgeting_App/BudgetingApp/Components/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Code/repos/Budgeting_App/BudgetingApp/Components/Pages/NotFound.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOb3RGb3VuZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/repos/Budgeting_App/BudgetingApp/Components/Pages/Weather.razor]
+[c:/Code/repos/Budgeting_App/BudgetingApp/Components/Pages/Projections.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9qZWN0aW9ucy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Code/repos/Budgeting_App/BudgetingApp/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/repos/Budgeting_App/BudgetingApp/Components/Routes.razor]
+[c:/Code/repos/Budgeting_App/BudgetingApp/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/repos/Budgeting_App/BudgetingApp/Components/_Imports.razor]
+[c:/Code/repos/Budgeting_App/BudgetingApp/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/repos/Budgeting_App/BudgetingApp/Components/Layout/MainLayout.razor]
+[c:/Code/repos/Budgeting_App/BudgetingApp/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-3dbvbkcjix
 
-[C:/Code/repos/Budgeting_App/BudgetingApp/Components/Layout/NavMenu.razor]
+[c:/Code/repos/Budgeting_App/BudgetingApp/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-wim72gg6nq
 
-[C:/Code/repos/Budgeting_App/BudgetingApp/Components/Layout/ReconnectModal.razor]
+[c:/Code/repos/Budgeting_App/BudgetingApp/Components/Layout/ReconnectModal.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcUmVjb25uZWN0TW9kYWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-b36mmdnegx
